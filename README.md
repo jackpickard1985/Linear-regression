@@ -1,6 +1,8 @@
 # Linear-regression
 Cost and sigmoid functions I wrote after completing Progessor Ng's machine learning course on Coursera / Stanford online
 
+The course walked the user through generating code for logistic regression, so here I've adapted the result to perform the similar task of linear regression
+
 Loads data from a .xls file and returns the y intercept and x coefficients according to the required dimensions
 
 Dependent on a gradient descent algorithm called fminunc
