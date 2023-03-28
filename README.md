@@ -1,5 +1,5 @@
 # Linear-regression
-Cost and sigmoid functions I wrote after completing Progessor Ng's machine learning course on Coursera / Stanford online
+Cost function and gradient descent implementation that I wrote after completing Progessor Ng's machine learning course on Coursera / Stanford online
 
 The course walked the user through generating code for logistic regression, so here I've adapted the result to perform the similar task of linear regression
 
