@@ -1,5 +1,5 @@
 # Linear-regression
-Cost function and gradient descent implementation that I wrote after completing Professor Ng's machine learning course on Coursera / Stanford online
+Cost function and gradient descent implementation that I wrote after completing Professor Ng's machine learning course on Coursera / Stanford online (this is not actually part of the course but I created it in order to process some research data; I later realised that I could do the job better using the lm function in R)
 
 The course walked the user through generating code for logistic regression, so here I've adapted the result to perform the similar task of linear regression
 
